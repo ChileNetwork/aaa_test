@@ -1,0 +1,15 @@
+{
+    "name": "msoto77/aaa_test",
+    "description": "testing para aprender git",
+    "authors": [
+        {
+            "name": "Nino",
+            "email": "nino@test.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"App\\": "app/"
+    	}
+    }
+}
