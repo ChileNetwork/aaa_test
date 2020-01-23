@@ -1,9 +1,12 @@
-<?php 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>AAA_Test</title>
+</head>
+<body>
+	<?php
+	Echo "Hola Mundo"; 
+	?>
 
-
-echo "Hello Woorld!!!!";
-
-echo "Agreagamos otracosa por aca";
-
-
-echo "asdfasdfasdfasdf";
+</body>
+</html>
